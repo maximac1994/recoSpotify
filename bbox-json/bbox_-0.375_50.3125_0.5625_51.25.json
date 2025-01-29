@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[0.3967,50.6504]},"properties":{"HE_ref":"1464317","contact:website":"https://www.nauticalarchaeologysociety.org/klein-hollandia","historic":"wreck","listed_status":"Maritime Wreck","name":"Klein Hollandia","seamark:type":"wreck","wikidata":"Q104863210","wreck:date_sunk":"1672","wreck:visible_at_high_tide":"no","wreck:visible_at_low_tide":"no"}}
+]}

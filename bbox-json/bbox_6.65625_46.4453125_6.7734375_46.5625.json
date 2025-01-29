@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[6.7509172,46.4865382],[6.7514991,46.486221]]},"properties":{"barrier":"retaining_wall"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[6.7544416,46.4840711],[6.7545022,46.4839504],[6.754651,46.4837928]]},"properties":{"barrier":"retaining_wall"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[6.754651,46.4837928],[6.7546095,46.4837387],[6.7547437,46.4836194],[6.7547769,46.4836483]]},"properties":{"man_made":"pier"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[6.7550199,46.4836483],[6.7552292,46.4835432]]},"properties":{"barrier":"retaining_wall"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[6.7552292,46.4835432],[6.7554199,46.4834221]]},"properties":{"barrier":"retaining_wall"}}
+]}

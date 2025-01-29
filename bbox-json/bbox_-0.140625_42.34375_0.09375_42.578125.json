@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[0.068431,42.5439232]},"properties":{"ele":"1484","natural":"peak","source":"CNIG"}}
+]}

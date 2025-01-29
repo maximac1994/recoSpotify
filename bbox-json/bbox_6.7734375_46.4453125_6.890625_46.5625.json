@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[6.849962,46.4568059]},"properties":{"amenity":"ferry_terminal","cargo":"passengers","ele":"373","ferry":"yes","name":"Vevey-La Tour","operator":"Compagnie générale de navigation sur le lac Léman (CGN)","operator:wikidata":"Q676230","operator:wikipedia":"fr:Compagnie générale de navigation sur le lac Léman","public_transport":"stop_position","source":"Bundesamt für Verkehr (BAV), DIDOK 2009","uic_name":"Vevey-La Tour (lac)","uic_ref":"8501247","website":"https://www.cgn.ch/fr/","wheelchair":"yes"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[6.8312853,46.4680586]},"properties":{"leisure":"slipway"}}
+]}

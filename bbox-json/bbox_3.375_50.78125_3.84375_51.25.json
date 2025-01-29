@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.7320457,51.0573161]},"properties":{"addr:city":"Gent","addr:housename":"Le Bienheureux","addr:housenumber":"20","addr:street":"Baudelokaai","building":"houseboat"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[3.7207927,51.0560308]},"properties":{"waterway":"weir"}}
+]}

@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.3672881,46.9594544]},"properties":{"historic":"wreck","seamark:type":"wreck","seamark:wreck:category":"hull_showing","source":"SHOM/IGN"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.4803849,46.9343491]},"properties":{"historic":"wreck","seamark:type":"wreck","seamark:wreck:category":"non-dangerous"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.4835151,47.0094084]},"properties":{"historic":"wreck","seamark:type":"wreck","seamark:wreck:category":"non-dangerous","source":"SHOM/IGN"}}
+]}

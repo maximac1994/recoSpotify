@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[6.5911002,49.3360456]},"properties":{"railway":"border","railway:name:DB":"Hemmersdorf (Saar) Grenze","railway:position:exact":"7.716","railway:ref:DB":"SXHE","source":"BDOrtho IGN;SNCF Réseau"}}
+]}
